@@ -1,5 +1,5 @@
-[submodule "projectcart/projectcart"]
-	path = projectcart/projectcart
+[submodule "projectcart"]
+	path = projectcart
 	url = https://github.com/mezianefraga00/projectcart
 [submodule "Submod"]
 	url = https://github.com/mezianefraga00/projectcart
