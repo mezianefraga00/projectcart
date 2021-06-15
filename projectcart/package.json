@@ -19,8 +19,8 @@
   },
   "eslintConfig": {
     "extends": [
-      "projectcart",
-      "projectcart/jest"
+      "react-app",
+      "react-app/jest"
     ]
   },
   "browserslist": {
